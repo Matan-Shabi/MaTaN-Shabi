@@ -9,7 +9,7 @@
 
 ## 🚧 Current Projects:
 - 🌐 **[SuperIdea](https://github.com/JamalM02/SuperIdea-client)**: A platform for sharing academic ideas and projects, built with a combination of React and Node.js.
-- 📦 **WorldOfGame**: Developing a Java-based game for exploring game programming, algorithmic design, and enhancing problem-solving skills.
+- 📦 **WorldOfGame**: Developing a Python-based game for exploring automation process. and exploring CI/CD tools.
 - 🔧 **CI/CD Automation Tools**: Creating automated deployment pipelines using Jenkins and Docker, helping to streamline application delivery.
 
 ---
