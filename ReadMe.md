@@ -8,7 +8,7 @@
 ---
 
 ## 🚧 Current Projects:
-- 🌐 **[SuperIdea](https://github.com/your-superidea-link)**: A platform for sharing academic ideas and projects, built with a combination of React and Node.js.
+- 🌐 **[SuperIdea](https://github.com/JamalM02/SuperIdea-client)**: A platform for sharing academic ideas and projects, built with a combination of React and Node.js.
 - 📦 **WorldOfGame**: Developing a Java-based game for exploring game programming, algorithmic design, and enhancing problem-solving skills.
 - 🔧 **CI/CD Automation Tools**: Creating automated deployment pipelines using Jenkins and Docker, helping to streamline application delivery.
 
@@ -90,12 +90,12 @@ I'm open to collaborating on:
 
 ### 🎮 Fun Facts
 - 🎲 I enjoy playing board games and card games with friends.
-- 🏋️ I regularly workout and enjoy outdoor activities like hiking and biking.
+- 🏋️ I regularly enjoy outdoor activities.
 - 💡 I love solving brain teasers and coding challenges during my free time.
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=MaTaN-DeHater&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
