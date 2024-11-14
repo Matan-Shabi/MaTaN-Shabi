@@ -52,7 +52,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white)  
 ![WebStorm](https://img.shields.io/badge/webstorm-%23000000.svg?style=plastic&logo=webstorm&logoColor=white)  
 ![Cursor](https://img.shields.io/badge/cursor-%23000000.svg?style=plastic&logo=cursor&logoColor=white) 
-![Windows](https://img.shields.io/badge/Windows%-%230078D6.svg?style=plastic&logo=windows&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows%2011-%230078D6.svg?style=plastic&logo=windows&logoColor=white) 
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white)  
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=plastic&logo=debian&logoColor=white)   
