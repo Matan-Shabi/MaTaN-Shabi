@@ -104,7 +104,8 @@ I'm open to collaborating on:
 
 ---
 
-[![Matan Shabi profile views](https://u8views.com/api/v1/github/profiles/4478920/views/day-week-month-total-count.svg)](u8views.com/github/Matan-Shabi)
+
+[![Matan Shabi profile views](https://u8views.com/api/v1/github/profiles/84010611/views/day-week-month-total-count.svg)](https://u8views.com/github/Matan-Shabi)
 
 
 
