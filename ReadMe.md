@@ -61,10 +61,14 @@
 ### Environments, IDEs, and Tools
 
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+- ![Visual Studio Community/Enterprise](https://img.shields.io/badge/Visual%20Studio-%237e10cc.svg?style=plastic&logo=visual-studio&logoColor=white)  
 - ![PyCharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=plastic&logo=pycharm&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
+- ![WebStorm](https://img.shields.io/badge/webstorm-%23000000.svg?style=plastic&logo=webstorm&logoColor=white)  
+- ![Cursor](https://img.shields.io/badge/cursor-%23000000.svg?style=plastic&logo=cursor&logoColor=white) 
 - ![Windows](https://img.shields.io/badge/Windows%2011-%230078D6.svg?style=plastic&logo=windows&logoColor=white)
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white)
+- ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=plastic&logo=debian&logoColor=white)   
 
 ---
 
