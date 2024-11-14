@@ -57,6 +57,10 @@
 - ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
 - ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=plastic&logo=rabbitmq&logoColor=white)
 - ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
+- ![AWS](https://img.shields.io/badge/-AWS-333333?style=plastic&logo=amazon-aws&logoColor=white)
+- ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=plastic&logo=azuredevops)
+ 
+
 
 ### Environments, IDEs, and Tools
 
