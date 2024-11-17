@@ -36,6 +36,7 @@
 - ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=white)
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
+- ![Bash](https://img.shields.io/badge/-Bash-333333?style=plastic&logo=gnu-bash&logoColor=white)
 
 
 ### Libraries and Frameworks
