@@ -30,22 +30,25 @@
 
 ## 🚀 Tech Knowledge
 
-### Programming Languages
+## Programming Languages
 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
 - ![Bash](https://img.shields.io/badge/-Bash-333333?style=plastic&logo=gnu-bash&logoColor=white)
 
-
-### Libraries and Frameworks
+## Libraries and Frameworks
 
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white)
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 - ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+- ![ASP.NET](https://img.shields.io/badge/asp.net-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white)
 - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 - ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white)
+
 
 ### DevOps Tools and Infrastructure
 
