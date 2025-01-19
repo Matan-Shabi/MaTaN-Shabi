@@ -43,9 +43,9 @@
 
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white)
+- ![Nest.js](https://img.shields.io/badge/nest.js-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white)
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 - ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-- ![ASP.NET](https://img.shields.io/badge/asp.net-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white)
 - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 - ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white)
 
