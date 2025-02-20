@@ -9,6 +9,7 @@
 
 ## 🚧 Current Projects:
 - 🌐 **[SuperIdea](https://github.com/JamalM02/SuperIdea-client)**: A platform for sharing academic ideas and projects, built with a combination of React and Node.js.
+- 🌐 **Essentia User Management System**: Built a modular admin panel with dynamic role-based permissions. Developed scalable frontend components using Feature-Sliced Design (TypeScript, Next.js) and a robust Nest.js backend. Automated deployments with Docker and Jenkins for seamless delivery.
 - 📦 **WorldOfGame**: Developing a Python-based game for exploring automation process. and exploring CI/CD tools.
 - 🔧 **CI/CD Automation Tools**: Creating automated deployment pipelines using Jenkins and Docker, helping to streamline application delivery.
 
@@ -48,7 +49,8 @@
 - ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 - ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white)
-
+- ![Playwright](https://img.shields.io/badge/playwright-%230077B5.svg?style=plastic&logo=playwright&logoColor=white)
+  
 
 ### DevOps Tools and Infrastructure
 
