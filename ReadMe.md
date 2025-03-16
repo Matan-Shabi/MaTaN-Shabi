@@ -17,7 +17,7 @@
 ## 🏆 Featured Projects
 
 ### 🅿️ Mulligan Parking System - Distributed Parking Management  
-🚀 **[Mulligan Parking System]()** is a **fully distributed, fault-tolerant parking system** using **RabbitMQ, MongoDB, and AI-powered recommendations**.
+🖥️ **[Mulligan Parking System]()** is a **fully distributed, fault-tolerant parking system** using **RabbitMQ, MongoDB, and AI-powered recommendations**.
 
 🛠 **Tech Stack:**  
 - **Backend:** Spring Boot, Express.js  
@@ -28,12 +28,25 @@
 🔧 **GitHub Repo:** _[Mulligan Parking System]()_  
 
 ---
-📦 **WorldOfGame**: Developing a Python-based game for exploring automation process. and exploring CI/CD tools.
+### 📦 **WorldOfGame**
 
+A Python-based mini-games platform showcasing an advanced DevOps and CI/CD workflow with automated deployments and comprehensive testing.
+
+**DevOps & Automation Highlights:**
+- 🚀 **CI/CD Pipeline**: Robust Jenkins pipeline automating build, test, and deployment processes.
+- 📦 **Containerization**: Docker and Docker Compose facilitate seamless multi-container management and consistent environments across platforms.
+- 🧪 **End-to-End Testing**: Selenium ensures reliability and quality of the web leaderboard interface.
+
+**Game Features:**
+- 🎲 **Games**: Memory Game, Number Guessing, Currency Roulette.
+- 🏆 **Persistent Scores**: Track and maintain player scores across difficulty levels.
+- 💻 **Cross-Platform**: Easy-to-use CLI interface supporting Windows, macOS, and Linux.
+
+🔧 **GitHub Repo:** _[World of Game](https://github.com/Matan-Shabi/WorldOfGame)_  
 
 ---
 ### 📚 ScholarShareNet - Student Collaboration Platform  
-🚀 **[ScholarShareNet](https://scholarsharenet.vercel.app/)** is a **study material-sharing platform** where students collaborate, upload resources, and receive academic ratings.
+🏗️ **[ScholarShareNet](https://scholarsharenet.vercel.app/)** is a **study material-sharing platform** where students collaborate, upload resources, and receive academic ratings.
 
 🛠 **Tech Stack:** React.js, Node.js, MongoDB, Heroku, Vercel  
 🔗 **Live Demo:** [ScholarShareNet](https://scholarsharenet.vercel.app/)  
@@ -108,6 +121,11 @@ _[ScholarShareNet - Server](https://github.com/JamalM02/SuperIdea-server)_
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=plastic&logo=ubuntu&logoColor=white)
 - ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=plastic&logo=debian&logoColor=white)   
 
+---
+### **Concepts**
+- 🏗️ **Distributed Systems**, **Microservices**  
+- 📈 **System Design**, **API Development**  
+- 🔐 **Data Security**, **Authentication & Authorization**  
 ---
 
 ## 📊 GitHub Stats
