@@ -8,13 +8,41 @@
 ---
 
 ## 🚧 Current Projects:
-- 🌐 **[SuperIdea](https://github.com/JamalM02/SuperIdea-client)**: A platform for sharing academic ideas and projects, built with a combination of React and Node.js.
 - 🌐 **Essentia User Management System**: Built a modular admin panel with dynamic role-based permissions. Developed scalable frontend components using Feature-Sliced Design (TypeScript, Next.js) and a robust Nest.js backend. Automated deployments with Docker and Jenkins for seamless delivery.
-- 📦 **WorldOfGame**: Developing a Python-based game for exploring automation process. and exploring CI/CD tools.
 - 🔧 **CI/CD Automation Tools**: Creating automated deployment pipelines using Jenkins and Docker, helping to streamline application delivery.
 
 ---
 
+
+## 🏆 Featured Projects
+
+### 🅿️ Mulligan Parking System - Distributed Parking Management  
+🚀 **[Mulligan Parking System]()** is a **fully distributed, fault-tolerant parking system** using **RabbitMQ, MongoDB, and AI-powered recommendations**.
+
+🛠 **Tech Stack:**  
+- **Backend:** Spring Boot, Express.js  
+- **Database:** Clustered MongoDB (3-node replica set)  
+- **Messaging System:** Clustered RabbitMQ (3-node cluster)  
+- **Recommender System:** AI-powered with 3 managed copies  
+
+🔧 **GitHub Repo:** _[Mulligan Parking System]()_  
+
+---
+📦 **WorldOfGame**: Developing a Python-based game for exploring automation process. and exploring CI/CD tools.
+
+
+---
+### 📚 ScholarShareNet - Student Collaboration Platform  
+🚀 **[ScholarShareNet](https://scholarsharenet.vercel.app/)** is a **study material-sharing platform** where students collaborate, upload resources, and receive academic ratings.
+
+🛠 **Tech Stack:** React.js, Node.js, MongoDB, Heroku, Vercel  
+🔗 **Live Demo:** [ScholarShareNet](https://scholarsharenet.vercel.app/)  
+🔧 **GitHub Repos:** 
+_[ScholarShareNet - Client](https://github.com/JamalM02/SuperIdea-client)_
+_[ScholarShareNet - Server](https://github.com/JamalM02/SuperIdea-server)_
+
+
+---
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matan-shabi/)  
