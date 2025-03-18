@@ -17,7 +17,7 @@
 ## 🏆 Featured Projects
 
 ### 🅿️ Mulligan Parking System - Distributed Parking Management  
-🖥️ **[Mulligan Parking System]()** is a **fully distributed, fault-tolerant parking system** using **RabbitMQ, MongoDB, and AI-powered recommendations**.
+🖥️ **[Mulligan Parking System](https://github.com/Matan-Shabi/Mulligan-Parking-Distributed-System)** is a **fully distributed, fault-tolerant parking system** using **RabbitMQ, MongoDB, and AI-powered recommendations**.
 
 🛠 **Tech Stack:**  
 - **Backend:** Spring Boot, Express.js  
@@ -25,7 +25,7 @@
 - **Messaging System:** Clustered RabbitMQ (3-node cluster)  
 - **Recommender System:** AI-powered with 3 managed copies  
 
-🔧 **GitHub Repo:** _[Mulligan Parking System]()_  
+🔧 **GitHub Repo:** _[Mulligan Parking System](https://github.com/Matan-Shabi/Mulligan-Parking-Distributed-System)_  
 
 ---
 ### 📦 **WorldOfGame**
