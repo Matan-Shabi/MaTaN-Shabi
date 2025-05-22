@@ -8,14 +8,21 @@
 ---
 
 ## 🚧 Current Projects:
-- 🌐 **Essentia User Management System**: Built a modular admin panel with dynamic role-based permissions. Developed scalable frontend components using Feature-Sliced Design (TypeScript, Next.js) and a robust Nest.js backend. Automated deployments with Docker and Jenkins for seamless delivery.
-- 🔧 **CI/CD Automation Tools**: Creating automated deployment pipelines using Jenkins and Docker, helping to streamline application delivery.
+- Self studing & self development 
 
 ---
 
 
 ## 🏆 Featured Projects
 
+### 🌐 **Essentia User Management System**: 
+• Architected and launched a scalable, modular admin panel frontend with Next.js, TypeScript and Feature-Sliced Design, delivering reusable UI components and dynamic role-based access control (RBAC).
+
+•Built and optimized a backend API using Express.js, Prisma & SQL Server, modeling fine-grained permissions and tuning database indices for fast, secure data access.
+
+• Deployed the full stack on Windows Server 2022, configuring IIS for hosting and PM2 for process management enabling zero-downtime restarts, auto-recovery, and centralized log collection.
+
+---
 ### 🅿️ Mulligan Parking System - Distributed Parking Management  
 🖥️ **[Mulligan Parking System](https://github.com/Matan-Shabi/Mulligan-Parking-Distributed-System)** is a **fully distributed, fault-tolerant parking system** using **RabbitMQ, MongoDB, and AI-powered recommendations**.
 
