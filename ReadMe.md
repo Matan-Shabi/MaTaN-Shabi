@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎓 **Currently pursuing**: B.Sc in Software Engineering. <br>
+🎓 **Graduate**: B.Sc in Software Engineering. <br>
 🎓 **Graduate**: DevOps Engineer course.<br>
 👨‍💻 **Passionate about**: DevOps, software development, and creating new innovative solutions. <br>
 🌱 I am always eager to learn and experiment with new technologies.<br>
