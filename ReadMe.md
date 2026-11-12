@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Matan 👋</h1>
 
 <p align="center">
-  <b>Co-founder & CTO at <a href="https://amdesk.io">AMdesk</a></b> · DevOps & Full-Stack Engineer · Research Assistant in Formal Verification
+  <b>Co-founder & CTO at <a href="https://amdesk.io">AMdesk</a></b> · Founder of <a href="https://matan-ai.com">Matan AI</a> · Research Assistant in Formal Verification
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matan-shabi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:matan.shabi20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://amdesk.io"><img src="https://img.shields.io/badge/AMdesk-amdesk.io-111111?style=flat" alt="AMdesk"/></a>
+  <a href="https://matan-ai.com"><img src="https://img.shields.io/badge/Matan_AI-matan--ai.com-0A70E2?style=flat" alt="Matan AI"/></a>
 </p>
 
 I build products end to end, from the database schema to the deploy pipeline. B.Sc. in Software Engineering with a DevOps background; these days most of my time goes into building a B2B SaaS from zero.
@@ -18,8 +19,15 @@ I build products end to end, from the database schema to the deploy pipeline. B.
 
 - 🏗️ **AMdesk** · Co-founder & CTO of a B2B SaaS platform for iGaming affiliate management. I own architecture, infrastructure and integrations.
 - 🔬 **Research assistant** · Working with Michael J. May on the formal verification of a privacy-preserving parking protocol: completing the protocol model and proving its security properties in symbolic verifiers (ProVerif, Tamarin), then carrying those guarantees into working code.
-- 🧩 **Independent consulting** · Implementing systems and managing information-systems projects inside organizations.
-- 🤖 **AI workshops** · Hands-on sessions that teach teams to work productively with AI tools.
+- 🚀 **[Matan AI](https://matan-ai.com)** · My independent practice. I implement systems and manage information-systems projects inside organizations, and run hands-on workshops that teach teams to work productively with AI tools.
+
+<p align="center">
+  <a href="https://matan-ai.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/matan-ai-flat-horizontal-on-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/matan-ai-flat-horizontal-on-light.svg">
+    <img height="56" src="./assets/matan-ai-flat-horizontal-on-light.svg" alt="Matan AI">
+  </picture></a>
+</p>
 
 ---
 
@@ -48,6 +56,7 @@ Python mini-games platform built around a full CI/CD workflow.
 Study-material sharing platform where students upload resources, collaborate and earn academic ratings.
 - React, Node.js and MongoDB, deployed on Vercel and Heroku
 - Repos: [client](https://github.com/JamalM02/SuperIdea-client) · [server](https://github.com/JamalM02/SuperIdea-server)
+
 
 ---
 
@@ -105,8 +114,8 @@ Study-material sharing platform where students upload resources, collaborate and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Matan-Shabi&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matan-Shabi&theme=react&hide_border=true&layout=compact" alt="Top languages"/>
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Matan-Shabi&theme=react&hide_border=true" alt="GitHub streak"/>
@@ -118,7 +127,7 @@ Study-material sharing platform where students upload resources, collaborate and
 
 I'm open to:
 - 🚀 Open-source work in backend, DevOps or infrastructure
-- 🤖 Bringing AI tools into a team's workflow, through workshops or hands-on implementation
+- 🤖 Bringing AI tools into a team's workflow, through [Matan AI](https://matan-ai.com) workshops or hands-on implementation
 - 🧩 Systems implementation and information-systems projects
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/matan-shabi/) or at **matan.shabi20@gmail.com**.
